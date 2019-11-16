@@ -4,8 +4,9 @@ board.each do |spot|
   if spot == "X" || spot == "O"
     counter +=1
   else
-    return counter
+
   end
+  counter
 end
 
 end
