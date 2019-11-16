@@ -5,5 +5,5 @@ board.each do |spot|
     counter +=1
   end
 end
-
+counter
 end
