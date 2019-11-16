@@ -6,9 +6,9 @@ board.each do |spot|
 
 
   end
-  counter
-end
 
+end
+counter
 end
 
 def current_player(board)
